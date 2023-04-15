@@ -1,0 +1,11 @@
+
+body{
+    background-color: rgb(196, 195, 195);
+}
+.container  {
+    margin-bottom: 2cm;
+}
+
+.maxWidth{
+    width:35%;
+}

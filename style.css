@@ -1,4 +1,4 @@
-/* * {
+* {
   box-sizing: border-box;
   margin: auto;
 }
@@ -18,7 +18,7 @@ header {
   font-family: 'Cormorant Garamond', serif;
 }
 
-Navigation Menu
+/* Navigation Menu */
 nav.navbar {
 
 
@@ -86,7 +86,7 @@ li.dropdown {
 }
 
 
-Search
+/* Search */
 form.example {
   margin-top: 5px;
   width: 40%;
@@ -155,7 +155,7 @@ div.gallery img {
 }
 
 
-Responsivness
+/* Responsivness */
 
 
  @media (min-width: 600px) {
@@ -240,4 +240,4 @@ footer .row a:any-link {
   text-decoration: none;
   color: white;
 } 
-*/
+
