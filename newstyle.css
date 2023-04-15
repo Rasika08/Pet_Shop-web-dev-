@@ -2,10 +2,9 @@
 body{
     background-color: rgb(196, 195, 195);
 }
-.container  {
-    margin-bottom: 2cm;
-}
+
 
 .maxWidth{
-    width:35%;
+    width: 25%;
+    margin-top: 2cm;
 }
